@@ -1,0 +1,3 @@
+panic("test")
+
+return true
